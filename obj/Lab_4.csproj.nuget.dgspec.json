@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\buxyd\\OneDrive\\Documents\\Source\\fall2024\\MIS221\\Labs\\Lab4\\Lab4.csproj": {}
+    "C:\\Users\\buxyd\\OneDrive\\Documents\\Source\\fall2024\\MIS221\\Labs\\Lab_4\\Lab_4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\buxyd\\OneDrive\\Documents\\Source\\fall2024\\MIS221\\Labs\\Lab4\\Lab4.csproj": {
+    "C:\\Users\\buxyd\\OneDrive\\Documents\\Source\\fall2024\\MIS221\\Labs\\Lab_4\\Lab_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\buxyd\\OneDrive\\Documents\\Source\\fall2024\\MIS221\\Labs\\Lab4\\Lab4.csproj",
-        "projectName": "Lab4",
-        "projectPath": "C:\\Users\\buxyd\\OneDrive\\Documents\\Source\\fall2024\\MIS221\\Labs\\Lab4\\Lab4.csproj",
+        "projectUniqueName": "C:\\Users\\buxyd\\OneDrive\\Documents\\Source\\fall2024\\MIS221\\Labs\\Lab_4\\Lab_4.csproj",
+        "projectName": "Lab_4",
+        "projectPath": "C:\\Users\\buxyd\\OneDrive\\Documents\\Source\\fall2024\\MIS221\\Labs\\Lab_4\\Lab_4.csproj",
         "packagesPath": "C:\\Users\\buxyd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\buxyd\\OneDrive\\Documents\\Source\\fall2024\\MIS221\\Labs\\Lab4\\obj\\",
+        "outputPath": "C:\\Users\\buxyd\\OneDrive\\Documents\\Source\\fall2024\\MIS221\\Labs\\Lab_4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\buxyd\\AppData\\Roaming\\NuGet\\NuGet.Config"
